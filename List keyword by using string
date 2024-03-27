@@ -1,0 +1,2 @@
+list4=list('vijay')
+print(list4)
