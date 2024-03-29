@@ -1,0 +1,2 @@
+str='MAHESH'
+print(str.lower())
