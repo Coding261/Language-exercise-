@@ -1,0 +1,2 @@
+str='27'
+print(str.zfill(6))
