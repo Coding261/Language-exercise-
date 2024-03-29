@@ -1,0 +1,3 @@
+import time
+local time=time.asctime(time.localtime(time.time()))
+print(local time)
