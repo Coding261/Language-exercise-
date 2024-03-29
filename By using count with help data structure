@@ -1,0 +1,7 @@
+name='vi##ja##y'
+count=name.count('#')
+print(count)
+name=name.replace("#","")
+print(name)
+name=count*("#")+name
+print(name)
