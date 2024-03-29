@@ -1,0 +1,4 @@
+str1='danger'
+for letter in str1:
+    str=ord(letter)+1
+    print(chr(str),end=" ")
