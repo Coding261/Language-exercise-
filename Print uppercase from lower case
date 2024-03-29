@@ -1,0 +1,2 @@
+str='mouli'
+print(str.upper())
