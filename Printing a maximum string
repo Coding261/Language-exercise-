@@ -1,0 +1,2 @@
+str='MoulikA'
+print(max(str))
